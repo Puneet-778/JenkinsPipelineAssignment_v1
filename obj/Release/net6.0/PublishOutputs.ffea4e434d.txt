@@ -1,0 +1,14 @@
+C:\Users\PThapliyal\OneDrive - Affinion Group\Desktop\Internal Training\AWS Assignments\AWS_Asssignment_1\obj\Release\net6.0\PubTmp\Out\AWS_Asssignment_1.exe
+C:\Users\PThapliyal\OneDrive - Affinion Group\Desktop\Internal Training\AWS Assignments\AWS_Asssignment_1\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\PThapliyal\OneDrive - Affinion Group\Desktop\Internal Training\AWS Assignments\AWS_Asssignment_1\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\PThapliyal\OneDrive - Affinion Group\Desktop\Internal Training\AWS Assignments\AWS_Asssignment_1\obj\Release\net6.0\PubTmp\Out\AWS_Asssignment_1.dll
+C:\Users\PThapliyal\OneDrive - Affinion Group\Desktop\Internal Training\AWS Assignments\AWS_Asssignment_1\obj\Release\net6.0\PubTmp\Out\AWS_Asssignment_1.deps.json
+C:\Users\PThapliyal\OneDrive - Affinion Group\Desktop\Internal Training\AWS Assignments\AWS_Asssignment_1\obj\Release\net6.0\PubTmp\Out\AWS_Asssignment_1.runtimeconfig.json
+C:\Users\PThapliyal\OneDrive - Affinion Group\Desktop\Internal Training\AWS Assignments\AWS_Asssignment_1\obj\Release\net6.0\PubTmp\Out\AWS_Asssignment_1.pdb
+C:\Users\PThapliyal\OneDrive - Affinion Group\Desktop\Internal Training\AWS Assignments\AWS_Asssignment_1\obj\Release\net6.0\PubTmp\Out\AWSSDK.Core.dll
+C:\Users\PThapliyal\OneDrive - Affinion Group\Desktop\Internal Training\AWS Assignments\AWS_Asssignment_1\obj\Release\net6.0\PubTmp\Out\AWSSDK.Extensions.NETCore.Setup.dll
+C:\Users\PThapliyal\OneDrive - Affinion Group\Desktop\Internal Training\AWS Assignments\AWS_Asssignment_1\obj\Release\net6.0\PubTmp\Out\AWSSDK.S3.dll
+C:\Users\PThapliyal\OneDrive - Affinion Group\Desktop\Internal Training\AWS Assignments\AWS_Asssignment_1\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\PThapliyal\OneDrive - Affinion Group\Desktop\Internal Training\AWS Assignments\AWS_Asssignment_1\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PThapliyal\OneDrive - Affinion Group\Desktop\Internal Training\AWS Assignments\AWS_Asssignment_1\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PThapliyal\OneDrive - Affinion Group\Desktop\Internal Training\AWS Assignments\AWS_Asssignment_1\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
